@@ -1,0 +1,8 @@
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\bin\Debug\ExPlayerTestingLibrary.pdb
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\bin\Debug\nunit.framework.dll
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\bin\Debug\nunit.framework.xml
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\obj\Debug\ExPlayerTestingLibrary.csprojAssemblyReference.cache
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\obj\Debug\ExPlayerTestingLibrary.csproj.CoreCompileInputs.cache
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\obj\Debug\ExPlayerTestingLibrary.csproj.CopyComplete
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\obj\Debug\ExPlayerTestingLibrary.dll
+D:\.net training coforge\Day-45\ExPlayerTesting\.vs\ExPlayerTestingLibrary\obj\Debug\ExPlayerTestingLibrary.pdb

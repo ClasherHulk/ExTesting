@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPlayerTesting", "ExPlayerTesting.csproj", "{2E219A37-2E08-41B0-BF96-3EF9661C1F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPlayerTestingLibrary", ".vs\ExPlayerTestingLibrary\ExPlayerTestingLibrary.csproj", "{1593702F-AEC0-4C12-A071-0E0B7DD3C422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E219A37-2E08-41B0-BF96-3EF9661C1F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E219A37-2E08-41B0-BF96-3EF9661C1F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E219A37-2E08-41B0-BF96-3EF9661C1F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E219A37-2E08-41B0-BF96-3EF9661C1F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1593702F-AEC0-4C12-A071-0E0B7DD3C422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1593702F-AEC0-4C12-A071-0E0B7DD3C422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1593702F-AEC0-4C12-A071-0E0B7DD3C422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1593702F-AEC0-4C12-A071-0E0B7DD3C422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27975EC4-25E1-425A-BEDE-02BAEE6F0866}
+	EndGlobalSection
+EndGlobal
